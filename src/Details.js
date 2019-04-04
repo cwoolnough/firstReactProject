@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import pf from "petfinder-client";
 import Carousel from "./Carousel";
 import Modal from "./Modal";
